@@ -1,0 +1,7 @@
+{
+  "name": "SpiceSync – AI-Powered Smart Kitchen Assistant",
+  "description": "An AI-driven kitchen app that transforms food ingredients into personalized recipes using real-time image recognition and contextual intelligence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
